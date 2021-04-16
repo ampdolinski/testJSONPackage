@@ -1,0 +1,44 @@
+{
+  "xdept652305": {
+    "createdat": "2020-07-11 18:00",
+    "deptuid": "DOKo9lLr-E2I5-v2EX-VWAB-ZzKOnnCvm1Ph",
+    "xdept": 652305,
+    "changedat": "2020-07-11 18:02",
+    "deptname": "PU"
+  },
+  "xdept652306": {
+    "createdat": "2020-02-11 09:06",
+    "deptuid": "y4VQLOae-nwJT-n8c3-b1qV-6NrvzLHDOGE4",
+    "xdept": 652306,
+    "changedat": "2020-02-11 09:08",
+    "deptname": "AC"
+  },
+  "xdept652303": {
+    "createdat": "2020-07-06 22:42",
+    "deptuid": "N30ksQpT-isgY-5Vpc-l5Jp-K5GZ0qLWe55G",
+    "xdept": 652303,
+    "changedat": "2020-07-06 22:44",
+    "deptname": "CS"
+  },
+  "xdept652304": {
+    "createdat": "2020-11-24 19:28",
+    "deptuid": "jVgXO2us-ndvO-QnCu-p1y8-7ePvwW5EQ7B2",
+    "xdept": 652304,
+    "changedat": "2020-11-24 19:30",
+    "deptname": "RD"
+  },
+  "xdept652301": {
+    "createdat": "2020-03-08 16:33",
+    "deptuid": "dQ3fwDVd-rlq0-V4ks-YQU8-ayufOi6Cco3i",
+    "xdept": 652301,
+    "changedat": "2020-03-08 16:35",
+    "deptname": "HR"
+  },
+  "xdept652302": {
+    "createdat": "2020-10-26 20:44",
+    "deptuid": "IuaXMuHg-1Pbd-XQSt-6XEk-KTMqDNQs1C3V",
+    "xdept": 652302,
+    "changedat": "2020-10-26 20:46",
+    "deptname": "IT"
+  }
+}

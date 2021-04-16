@@ -1,0 +1,264 @@
+{
+  "STAFF": [
+    {
+      "FIRSTNAME": "Lilla",
+      "LASTNAME": "Osborne",
+      "ROLE": "Owner",
+      "DEPARTMENT": "RD",
+      "STAFFID": 439503,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Lauran",
+      "LASTNAME": "Carter",
+      "ROLE": "Owner",
+      "DEPARTMENT": "RD",
+      "STAFFID": 439536,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Lucinda",
+      "LASTNAME": "Haynes",
+      "ROLE": "Duerr Staff",
+      "DEPARTMENT": "AC",
+      "STAFFID": 439515,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Natacha",
+      "LASTNAME": "Reyes",
+      "ROLE": "Department Administrator",
+      "DEPARTMENT": "AC",
+      "STAFFID": 439636,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Will",
+      "LASTNAME": "Joseph",
+      "ROLE": "Project Manager",
+      "DEPARTMENT": "RD",
+      "STAFFID": 439506,
+      "RIGHTS": {
+        "Projects": [ 166, 285 ],
+        "Milestones": [ 90001 ],
+        "Plants": [ 0 ],
+        "Phases": [ 80001, 90002 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Rosemary",
+      "LASTNAME": "Whitehead",
+      "ROLE": "Duerr Staff",
+      "DEPARTMENT": "PU",
+      "STAFFID": 439528,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Judy",
+      "LASTNAME": "Monroe",
+      "ROLE": "Site Responsible",
+      "DEPARTMENT": "RD",
+      "STAFFID": 439605,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Margart",
+      "LASTNAME": "Flores",
+      "ROLE": "Site Responsible",
+      "DEPARTMENT": "AC",
+      "STAFFID": 439671,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Audry",
+      "LASTNAME": "Parker",
+      "ROLE": "Department Administrator",
+      "DEPARTMENT": "PU",
+      "STAFFID": 439510,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Dorothea",
+      "LASTNAME": "Graves",
+      "ROLE": "Duerr Staff",
+      "DEPARTMENT": "PU",
+      "STAFFID": 439521,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Refugio",
+      "LASTNAME": "Calderon",
+      "ROLE": "Site Responsible",
+      "DEPARTMENT": "RD",
+      "STAFFID": 439620,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Rudy",
+      "LASTNAME": "Francis",
+      "ROLE": "Project Manager",
+      "DEPARTMENT": "IT",
+      "STAFFID": 439653,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Clelia",
+      "LASTNAME": "Wagner",
+      "ROLE": "Project Manager",
+      "DEPARTMENT": "RD",
+      "STAFFID": 439501,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Ferne",
+      "LASTNAME": "Davila",
+      "ROLE": "Site Responsible",
+      "DEPARTMENT": "CS",
+      "STAFFID": 439545,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Lahoma",
+      "LASTNAME": "Riggs",
+      "ROLE": "Duerr Staff",
+      "DEPARTMENT": "CS",
+      "STAFFID": 439578,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Raven",
+      "LASTNAME": "Noble",
+      "ROLE": "Project Manager",
+      "DEPARTMENT": "PU",
+      "STAFFID": 439710,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Zulma",
+      "LASTNAME": "Decker",
+      "ROLE": "Project Manager",
+      "DEPARTMENT": "RD",
+      "STAFFID": 439555,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Lekisha",
+      "LASTNAME": "Weeks",
+      "ROLE": "Site Responsible",
+      "DEPARTMENT": "CS",
+      "STAFFID": 439566,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Danelle",
+      "LASTNAME": "Hall",
+      "ROLE": "Duerr Staff",
+      "DEPARTMENT": "PU",
+      "STAFFID": 439591,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    },
+    {
+      "FIRSTNAME": "Cordell",
+      "LASTNAME": "Noble",
+      "ROLE": "Project Manager",
+      "DEPARTMENT": "IT",
+      "STAFFID": 439690,
+      "RIGHTS": {
+        "Projects": [ 0 ],
+        "Milestones": [ 0 ],
+        "Plants": [ 0 ],
+        "Phases": [ 0 ]
+      }
+    }
+  ]
+}
