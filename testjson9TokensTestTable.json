@@ -1,6 +1,58 @@
 {
   "ALLTOKENS": [
     {
+      "PROJECTPHASECAPTION": "RD_Phase 73 Caption",
+      "VISIBILITY": true,
+      "REVOKERIGHTS": false,
+      "TOKENSTATUS": "revoked",
+      "PROJECTID": "efcf1f54-5154-eb11-96d5-94e6f7df2d7e",
+      "PROJECTCAPTION": "RD_1.1 Milestone Start of commissioning (M8)",
+      "PROJECTPHASE": "RD_Phase 2",
+      "TOKENRIGHTS": "View",
+      "PLANTID": "774704",
+      "PLANTCAPTION": "RD_DE01-2102864",
+      "TOKENID": "900001"
+    },
+    {
+      "PROJECTPHASECAPTION": "RD_Phase 15 Caption",
+      "VISIBILITY": true,
+      "REVOKERIGHTS": false,
+      "TOKENSTATUS": "active",
+      "PROJECTID": "602624b2-68af-082c-5a50-2821eb06952e",
+      "PROJECTCAPTION": "Liquefied petroleum gas",
+      "PROJECTPHASE": "RD_Phase 2",
+      "TOKENRIGHTS": "View, Edit",
+      "PLANTID": "774704",
+      "PLANTCAPTION": "RD_P1G1U1.MG630",
+      "TOKENID": "900002"
+    },
+    {
+      "PROJECTPHASECAPTION": "RD_Phase 31 Caption",
+      "VISIBILITY": true,
+      "REVOKERIGHTS": false,
+      "TOKENSTATUS": "active",
+      "PROJECTID": "75d01f54-5154-eb11-96d5-94e6f7df2d7e",
+      "PROJECTCAPTION": "1.6.9.7 Pilot production_Handover",
+      "PROJECTPHASE": "RD_Phase 2",
+      "TOKENRIGHTS": "View",
+      "PLANTID": "774704",
+      "PLANTCAPTION": "RD_none",
+      "TOKENID": "900003"
+    },
+    {
+      "PROJECTPHASECAPTION": "RD_Phase 73 Caption",
+      "VISIBILITY": true,
+      "REVOKERIGHTS": false,
+      "TOKENSTATUS": "revoked",
+      "PROJECTID": "efcf1f54-5154-eb11-96d5-94e6f7df2d7e",
+      "PROJECTCAPTION": "RD_1.1 Milestone Start of commissioning (M8)",
+      "PROJECTPHASE": "RD_Phase 2",
+      "TOKENRIGHTS": "View",
+      "PLANTID": "774704",
+      "PLANTCAPTION": "RD_DE01-2102864",
+      "TOKENID": "900001"
+    },
+    {
       "PROJECTPHASECAPTION": "Phase 73 Caption",
       "VISIBILITY": true,
       "REVOKERIGHTS": false,
