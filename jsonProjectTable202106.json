@@ -1,0 +1,121 @@
+{
+  "ALLPROJECTS": [
+    {
+      "createdat": "13-paź-2020",
+      "changedby": "",
+      "xprj": 136,
+      "prj": "DE01-2102635",
+      "prjlogo": "",
+      "prjcaption": "BMW-Dingolfing 01-Installation",
+      "changedat": "03-mar-2021",
+      "prjcustcode": "00000000-0000-0000-0000-000000000000",
+      "lastts": "31-gru-1899",
+      "prjcustlogo": "BMW.jpg",
+      "prjuid": "3527c1d5-ddff-e911-b27a-985fd3348f6f"
+    },
+    {
+      "createdat": "29-paź-2020",
+      "changedby": "",
+      "xprj": 270,
+      "prj": "DE01-2102635",
+      "prjlogo": "",
+      "prjcaption": "BMW-Dingolfing 02-Commissioning",
+      "changedat": "03-mar-2021",
+      "prjcustcode": "00000000-0000-0000-0000-000000000000",
+      "lastts": "31-gru-1899",
+      "prjcustlogo": "BMW.jpg",
+      "prjuid": "6dbfb0bb-a06a-ea11-8ea8-5c879cc0872a"
+    },
+    {
+      "createdat": "29-paź-2020",
+      "changedby": "",
+      "xprj": 150,
+      "prj": "DE01-2102708",
+      "prjlogo": "",
+      "prjcaption": "GM Changwon Commissioning",
+      "changedat": "03-mar-2021",
+      "prjcustcode": "00000000-0000-0000-0000-000000000000",
+      "lastts": "31-gru-1899",
+      "prjcustlogo": "GM_Korea.jpg",
+      "prjuid": "09d25dfc-0bae-e911-b243-985fd3348f6f"
+    },
+    {
+      "createdat": "16-lut-2021",
+      "changedby": "",
+      "xprj": 279,
+      "prj": "DE01-2102864",
+      "prjlogo": "",
+      "prjcaption": "Daimler East London SA Commissioning",
+      "changedat": "03-mar-2021",
+      "prjcustcode": "00000000-0000-0000-0000-000000000000",
+      "lastts": "31-gru-1899",
+      "prjcustlogo": "Mercedes_Benz.jpg",
+      "prjuid": "eecf1f54-5154-eb11-96d5-94e6f7df2d7e"
+    },
+    {
+      "createdat": "31-paź-2020",
+      "changedby": "",
+      "xprj": 276,
+      "prj": "DE01-2205114",
+      "prjlogo": "",
+      "prjcaption": "Rivian Commissioning",
+      "changedat": "03-mar-2021",
+      "prjcustcode": "00000000-0000-0000-0000-000000000000",
+      "lastts": "31-gru-1899",
+      "prjcustlogo": "https://www.dynabyte.de/updater/img/Rivian.png",
+      "prjuid": "5659b5ae-fe20-ea11-b28e-985fd3348f6f"
+    },
+    {
+      "createdat": "09-paź-2020",
+      "changedby": "",
+      "xprj": 237,
+      "prj": "DE01-2302245",
+      "prjlogo": "",
+      "prjcaption": "Tesla Shanghai Commissioning",
+      "changedat": "03-mar-2021",
+      "prjcustcode": "00000000-0000-0000-0000-000000000000",
+      "lastts": "31-gru-1899",
+      "prjcustlogo": "Tesla.jpg",
+      "prjuid": "b78d1df3-037d-4131-9b7e-833acb3b94b2"
+    },
+    {
+      "createdat": "03-mar-2021",
+      "changedby": "",
+      "xprj": 280,
+      "prj": "DE01-2911617",
+      "prjlogo": "",
+      "prjcaption": "MVML Chakan Mahindra Commissioning",
+      "changedat": "03-mar-2021",
+      "prjcustcode": "00000000-0000-0000-0000-000000000000",
+      "lastts": "31-gru-1899",
+      "prjcustlogo": "",
+      "prjuid": "515450e2-b45c-eb11-96e6-94e6f7df2d7e"
+    },
+    {
+      "createdat": "03-mar-2021",
+      "changedby": "",
+      "xprj": 278,
+      "prj": "DE01-2911617",
+      "prjlogo": "",
+      "prjcaption": "MVML Chakan Mahindra Installation",
+      "changedat": "03-mar-2021",
+      "prjcustcode": "00000000-0000-0000-0000-000000000000",
+      "lastts": "31-gru-1899",
+      "prjcustlogo": "https://www.dynabyte.de/updater/img/Mahindra.png",
+      "prjuid": "7d244f8f-a429-eb11-9696-94e6f7df2d7e"
+    },
+    {
+      "createdat": "19-lis-2020",
+      "changedby": "",
+      "xprj": 231,
+      "prj": "DE01-2991026",
+      "prjlogo": "",
+      "prjcaption": "Ford Hermosillo Commissioning",
+      "changedat": "03-mar-2021",
+      "prjcustcode": "00000000-0000-0000-0000-000000000000",
+      "lastts": "31-gru-1899",
+      "prjcustlogo": "Ford.png",
+      "prjuid": "55991e68-7e3d-ea11-94f5-94e6f7df2d7e"
+    }
+  ]
+}
